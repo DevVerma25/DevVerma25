@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevVerma25
 - 👀 I’m interested in Java,C++,Game Dev
 - 🌱 I’m currently learning Java,C,Game Dev
-- 💞️ I’m looking to collaborate on Game Dev
+- 💞️ I’m looking to collaborate on Game Dev, Web dev
 - 📫 How to reach me- Devil#6434(discord)
 
 <!---
